@@ -107,7 +107,7 @@ export const whitelistSettings: WhitelistSettings = {
 
   //Wallet Title and Description
   title: "Shiny Things",
-  desc: "This NFT is only for those that held for 24hrs during week 3",
+  desc: "This NFT is only for those who bought a Magpie between March 30th at 5pm EST-April 1st at 5pm EST ",
 
   //Enable Custom HTML Below
   enableCustomHTML: false,
